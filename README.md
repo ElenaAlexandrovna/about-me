@@ -10,4 +10,4 @@
 
 Логотип моего агентства:
 
-![logo](/logoMI.png)
+![logo](https://static.tildacdn.com/tild3038-6237-4636-b839-643662626137/MIG_logo.svg)
